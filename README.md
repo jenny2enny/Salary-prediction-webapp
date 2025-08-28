@@ -114,7 +114,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by [Your Name Here]
+Developed by [IdogaEne Jennifer]
 
 ---
 
